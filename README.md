@@ -7,6 +7,8 @@ Ass inputs requires two json files containing:
 * the network topology
 * the device information
 
+N.B. input_files and output_files directories MUST be created
+
 ## Requirements
 
 Python 3.8.1+
