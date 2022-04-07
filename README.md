@@ -2,7 +2,7 @@
 
 These scripts generates a .xlsx file that can be used as input for the Domotz Network Topology templates for Microsoft Visio.
 
-Ass inputs requires two json files containing:
+As inputs requires two json files containing:
 
 * the network topology
 * the device information
