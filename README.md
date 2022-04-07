@@ -20,7 +20,7 @@ Python 3.8.1+
 
 ## Folder Organization
 
-By default, both scripts expect the following folter organization:
+By default, both scripts expect the following folder organization:
 
 * base_dir : script folder
 * input_files: folder containing the network topology and devices JSON files
