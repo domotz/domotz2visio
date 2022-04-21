@@ -13,11 +13,7 @@ N.B. input_files and output_files directories MUST be created
 
 Python 3.8.1+
 
-* fire==0.4.0
-* pandas==1.0.4
-* numpy==1.18.4
-* treelib==1.6.1
-
+For py libraries, check file requirements.txt
 ## Folder Organization
 
 By default, both scripts expect the following folder organization:
